@@ -1,0 +1,54 @@
+/*
+@title:allsamples
+@by:raanye
+song @by raanye
+*/
+setcpm(100/4)
+samples('github:dissonancefm/samples')
+$: s("sample1").loopAt(2).adsr(".0:.0:1:.0").scope()//scarface
+$: s("sample2").loopAt(4).adsr(".0:.0:1:.0").scope()//benson
+$: s("sample3").loopAt(4).adsr(".0:.0:1:.0").scope()//2pac
+$: s("sample4").loopAt(4).adsr(".0:.0:1:.0").scope()//afrika
+$: s("sample5").loopAt(8).adsr(".0:.0:1:.0").scope()//lady.hearmetonight
+$: s("sample6").loopAt(8).adsr(".0:.0:1:.0").scope()//champion.ye
+$: s("sample7").loopAt(2).adsr(".0:.0:1:.0").scope()//moby
+$: s("sample8").loopAt(2).adsr(".0:.0:1:.0").scope()//moby2
+$: s("sample9").loopAt(2).adsr(".0:.0:1:.0").scope()//90s
+$: s("sample10").loopAt(4).adsr(".0:.0:1:.0").scope()//kendrick
+$: s("sample11").loopAt(8).adsr(".0:.0:1:.0").scope()//biggie
+$: s("sample12").loopAt(1).adsr(".0:.0:1:.0").scope()//california.love
+$: s("sample13").loopAt(4).adsr(".0:.0:1:.0").scope()//westcoast.anthem
+$: s("sample14").loopAt(4).adsr(".0:.0:1:.0").scope()//juicy.biggie
+$: s("sample15").loopAt(2).adsr(".0:.0:1:.0").scope()//dre.day
+$: s("sample16").loopAt(2).adsr(".0:.0:1:.0").scope()//dre.day2
+$: s("sample17").loopAt(2).adsr(".0:.0:1:.0").scope()//disco.classic
+$: s("sample18").loopAt(1).adsr(".0:.0:1:.0").scope()//music.sound.better
+$: s("sample19").loopAt(8).adsr(".0:.0:1:.0").scope()//biggie.dream
+$: s("sample20").loopAt(2).adsr(".0:.0:1:.0").scope()//digital.love
+$: s("sample21").loopAt(2).adsr(".0:.0:1:.0").scope()//digital.love2
+$: s("sample22").loopAt(2).adsr(".0:.0:1:.0").scope()//digital.love3
+$: s("sample23").loopAt(8).adsr(".0:.0:1:.0").scope()//justice.dance
+$: s("sample24").loopAt(8).adsr(".0:.0:1:.0").scope()//justice.dance2
+$: s("sample25").loopAt(4).adsr(".0:.0:1:.0").scope()//justice.dance3
+$: s("sample26").loopAt(8).adsr(".0:.0:1:.0").scope()//burial
+$: s("sample27").loopAt(16).adsr(".0:.0:1:.0").scope()//devilinadress
+$: s("b1").loopAt(2).adsr(".0:.0:1:.0").scope()//revervehat.2step
+$: s("b2").loopAt(1).adsr(".0:.0:1:.0").scope()//2step.weird.struct
+$: s("b3").loopAt(2).adsr(".0:.0:1:.0").scope()//hat.snare.chill
+$: s("b4").loopAt(2).adsr(".0:.0:1:.0").scope()//lowfilter.break
+$: s("b5").loopAt(2).adsr(".0:.0:1:.0").scope()//funky.break
+$: s("b6").loopAt(2).adsr(".0:.0:1:.0").scope()//hiphop.break
+$: s("b7").loopAt(2).adsr(".0:.0:1:.0").scope()//80s.hiphop
+$: s("b8").loopAt(2).adsr(".0:.0:1:.0").scope()//gangsta.hiphop
+$: s("b9").loopAt(1).adsr(".0:.0:1:.0").scope()//soul.break
+$: s("b10").loopAt(2).adsr(".0:.0:1:.0").scope()//triphop
+$: s("b11").loopAt(4).adsr(".0:.0:1:.0").scope()//amen.style
+$: s("b12").loopAt(2).adsr(".0:.0:1:.0").scope()//simple.break
+$: s("b13").loopAt(2).adsr(".0:.0:1:.0").scope()//80.lofi.break
+$: s("b14").loopAt(1).adsr(".0:.0:1:.0").scope()//rock.alt.break
+$: s("b15").loopAt(1).adsr(".0:.0:1:.0").scope()//70s.soul.break
+$: s("b16").loopAt(1).adsr(".0:.0:1:.0").scope()//70.funksoul
+$: s("b17").loopAt(1).adsr(".0:.0:1:.0").scope()//disco.groove.break
+$: s("b18").loopAt(1).adsr(".0:.0:1:.0").scope()//groove.break
+$: s("b19").loopAt(1).adsr(".0:.0:1:.0").scope()//60s.wait.break
+$: s("b20").loopAt(1).adsr(".0:.0:1:.0").scope()//cliche.break
